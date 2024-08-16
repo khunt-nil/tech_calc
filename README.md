@@ -1,6 +1,6 @@
 # tech_calc
 
-A new Flutter project.
+Sem 5 Flutter project.
 
 ## Getting Started
 
